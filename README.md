@@ -8,7 +8,7 @@ The BizCardX application is a simple and intuitive user interface that guides us
 The extracted information would be displayed in a clean and organized manner, and users would be able to easily add it to the database. 
 Further the data stored in database can be easily read, updated and deleted by user as per the requirement.
 # Libraries used:
-EasyOCR - To extract text from images 
-streamlit - To create graphical user interface
-Pandas - To create dataframes
-mysql.connector - To store and retrieve the data
+* EasyOCR - To extract text from images 
+* streamlit - To create graphical user interface
+* Pandas - To create dataframes
+* mysql.connector - To store and retrieve the data
